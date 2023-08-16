@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "332404686151",
+    "firebase_url": "https://webrtcjava-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "webrtcjava",
+    "storage_bucket": "webrtcjava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332404686151:android:7502529dc0044e4d2f6062",
+        "android_client_info": {
+          "package_name": "com.codewithkael.javawebrtcyoutube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332404686151-dr14g3662t8eglg9klb3gujiir5otsc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC64N8j6692c670eQSZMIXTek6EimUxLmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332404686151-dr14g3662t8eglg9klb3gujiir5otsc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
